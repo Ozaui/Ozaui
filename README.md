@@ -1,4 +1,3 @@
-[![MasterHead](https://tr.pinterest.com/pin/903182900256260020/)
 <h1 align="center">Hi 👋, I'm Özay Melih Yıldız</h1>
 <h3 align="center">A passionate frontend developer from Turkey and I am studying computer engineering at Süleyman Demirel University.</h3>
 
