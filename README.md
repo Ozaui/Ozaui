@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Özay Melih Yıldız</h1>
-<h3 align="center">A passionate frontend developer from Turkey and I am studying computer engineering at Süleyman Demirel University.</h3>
+<h3 align="center">A passionate backend developer from Turkey and I am studying computer engineering at Süleyman Demirel University.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
