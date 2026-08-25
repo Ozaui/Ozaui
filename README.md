@@ -51,12 +51,8 @@ Süleyman Demirel Üniversitesi'nde Bilgisayar Mühendisliği eğitimimi tamamla
 ### 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ozaui&show_icons=true&theme=default&hide_border=true" alt="Özay'ın GitHub istatistikleri"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozaui&layout=compact&hide_border=true" alt="En çok kullanılan diller"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ozaui&hide_border=true" alt="GitHub streak istatistikleri"/>
+  <img src="https://img.shields.io/github/followers/Ozaui?label=Takip%C3%A7i&style=for-the-badge&color=blue" alt="Takipçi sayısı"/>
+  <img src="https://img.shields.io/badge/Repolar-81-informational?style=for-the-badge" alt="Repo sayısı"/>
 </p>
 
 ---
