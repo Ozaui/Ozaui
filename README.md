@@ -1,12 +1,67 @@
-<h1 align="center">Hi 👋, I'm Özay Melih Yıldız</h1>
-<h3 align="center">A passionate backend developer from Turkey and I am studying computer engineering at Süleyman Demirel University.</h3>
+<h1 align="center">Merhaba, ben Özay 👋</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/%C3%B6zay-melih-y%C4%B1ld%C4%B1z-442680235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="özay melih yıldız" height="30" width="40" /></a>
-<a href="https://instagram.com/melihisdevil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="melihisdevil" height="30" width="40" /></a>
+<h3 align="center">Full Stack Developer @ Kodentek</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/özay-melih-yıldız-442680235/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/melihisdevil">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
 
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ozaui&show_icons=true&locale=en" alt="ozaui" /></p>
+### 🧑‍💻 Hakkımda
 
+Süleyman Demirel Üniversitesi'nde Bilgisayar Mühendisliği eğitimimi tamamladıktan sonra şu anda **Kodentek**'te full stack geliştirici olarak çalışıyorum. Web ve mobil tarafta **React** ve **React Native**, backend tarafında ise **.NET** ekosistemi ile ürün geliştiriyorum.
+
+- 🔭 Şu anda **Kodentek**'te React, React Native ve .NET ile projeler geliştiriyorum
+- 🇩🇪 Almanca öğreniyorum — bu süreci **[Zausel](https://github.com/Ozaui/Zausel)** adında kendi geliştirdiğim bir Almanca öğrenme uygulamasıyla destekliyorum
+- 🌱 Backend mimarisi, API tasarımı ve mobil geliştirme konularında kendimi geliştirmeye devam ediyorum
+- 💬 React, React Native, .NET/C#, TypeScript ve yazılım mimarisi hakkında konuşmaktan mutluluk duyarım
+- 📫 Bana ulaşmak için LinkedIn ya da Instagram üzerinden mesaj bırakabilirsiniz
+
+---
+
+### 🛠️ Teknolojiler
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+---
+
+### 📌 Öne Çıkan Proje
+
+<a href="https://github.com/Ozaui/Zausel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ozaui&repo=Zausel&theme=default" alt="Zausel"/>
+</a>
+
+**Zausel** — Almanca öğrenme yolculuğumu desteklemek için geliştirdiğim bir Almanca öğrenme uygulaması.
+
+---
+
+### 📊 GitHub İstatistikleri
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ozaui&show_icons=true&theme=default&hide_border=true" alt="Özay'ın GitHub istatistikleri"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ozaui&layout=compact&hide_border=true" alt="En çok kullanılan diller"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ozaui&hide_border=true" alt="GitHub streak istatistikleri"/>
+</p>
+
+---
+
+<p align="center"><i>Bu profili görüntülediğiniz için teşekkürler — hoş geldiniz! 🙌</i></p>
