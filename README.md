@@ -55,10 +55,7 @@ After completing my Computer Engineering degree at Süleyman Demirel University,
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/Ozaui?label=Followers&style=for-the-badge&color=blue" alt="Follower count"/>
   <img src="https://img.shields.io/badge/Repositories-81-informational?style=for-the-badge" alt="Repository count"/>
 </p>
 
----
 
-<p align="center"><i>Thanks for stopping by — welcome! 🙌</i></p>
