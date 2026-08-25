@@ -3,10 +3,6 @@
 <h3 align="center">Full Stack Developer @ Kodentek</h3>
 
 <p align="center">
-  <b>🇬🇧 EN</b> · <a href="README.tr.md">🇹🇷 TR</a> · <a href="README.de.md">🇩🇪 DE</a>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/özay-melih-yıldız-442680235/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -63,4 +59,3 @@ After completing my Computer Engineering degree at Süleyman Demirel University,
 ---
 
 <p align="center"><i>Thanks for stopping by — welcome! 🙌</i></p>
-
