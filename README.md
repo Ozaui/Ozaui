@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba, ben Özay 👋</h1>
+<h1 align="center">Merhaba, ben Özay 👋 · Hi, I'm Özay 👋</h1>
 
 <h3 align="center">Full Stack Developer @ Kodentek</h3>
 
@@ -13,19 +13,21 @@
 
 ---
 
+<details open>
+<summary><h2>🇹🇷 Türkçe</h2></summary>
+
 ### 🧑‍💻 Hakkımda
 
 Süleyman Demirel Üniversitesi'nde Bilgisayar Mühendisliği eğitimimi tamamladıktan sonra şu anda **Kodentek**'te full stack geliştirici olarak çalışıyorum. Web ve mobil tarafta **React** ve **React Native**, backend tarafında ise **.NET** ekosistemi ile ürün geliştiriyorum.
 
 - 🔭 Şu anda **Kodentek**'te React, React Native ve .NET ile projeler geliştiriyorum
-- 🇩🇪 Almanca öğreniyorum — bu süreci **[Zausel](https://github.com/Ozaui/Zausel)** adında kendi geliştirdiğim bir Almanca öğrenme uygulamasıyla destekliyorum
+- 🏛️ Kamu kurumları ve belediyeler için dijital projeler geliştiren ekibin içinde yer alıyorum
+- 🇩🇪 Almanca öğreniyorum — bu süreci **Zausel** adında kendi geliştirdiğim bir Almanca öğrenme uygulamasıyla destekliyorum
 - 🌱 Backend mimarisi, API tasarımı ve mobil geliştirme konularında kendimi geliştirmeye devam ediyorum
 - 💬 React, React Native, .NET/C#, TypeScript ve yazılım mimarisi hakkında konuşmaktan mutluluk duyarım
 - 📫 Bana ulaşmak için LinkedIn ya da Instagram üzerinden mesaj bırakabilirsiniz
 
----
-
-### 🛠️ Teknolojiler
+#### 🛠️ Teknolojiler
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
@@ -40,20 +42,60 @@ Süleyman Demirel Üniversitesi'nde Bilgisayar Mühendisliği eğitimimi tamamla
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
----
+#### 📌 Öne Çıkan Proje
 
-### 📌 Öne Çıkan Proje
+**Zausel** — Almanca öğrenme yolculuğumu desteklemek için geliştirdiğim bir Almanca öğrenme uygulaması. *(yakında yayında)*
 
-**Zausel** — Almanca öğrenme yolculuğumu desteklemek için geliştirdiğim bir Almanca öğrenme uygulaması. *(şu an private repo)*
-
----
-
-### 📊 GitHub İstatistikleri
+#### 📊 GitHub İstatistikleri
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Ozaui?label=Takip%C3%A7i&style=for-the-badge&color=blue" alt="Takipçi sayısı"/>
   <img src="https://img.shields.io/badge/Repolar-81-informational?style=for-the-badge" alt="Repo sayısı"/>
 </p>
+
+</details>
+
+<details>
+<summary><h2>🇬🇧 English</h2></summary>
+
+### 🧑‍💻 About Me
+
+After completing my Computer Engineering degree at Süleyman Demirel University, I'm currently working as a full stack developer at **Kodentek**. I build products with **React** and **React Native** on the frontend/mobile side, and with the **.NET** ecosystem on the backend.
+
+- 🔭 Currently building projects with React, React Native, and .NET at **Kodentek**
+- 🏛️ Part of a team developing digital projects for public institutions and municipalities
+- 🇩🇪 Learning German — supporting this journey with **Zausel**, a German learning app I'm building myself
+- 🌱 Continuously improving my skills in backend architecture, API design, and mobile development
+- 💬 Happy to talk about React, React Native, .NET/C#, TypeScript, and software architecture
+- 📫 Feel free to reach out via LinkedIn or Instagram
+
+#### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+
+#### 📌 Featured Project
+
+**Zausel** — A German learning app I'm building to support my own German learning journey. *(coming soon)*
+
+#### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Ozaui?label=Followers&style=for-the-badge&color=blue" alt="Follower count"/>
+  <img src="https://img.shields.io/badge/Repositories-81-informational?style=for-the-badge" alt="Repository count"/>
+</p>
+
+</details>
 
 ---
 
