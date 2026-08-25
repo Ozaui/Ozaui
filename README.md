@@ -49,6 +49,16 @@ After completing my Computer Engineering degree at Süleyman Demirel University,
 
 ---
 
+### 🧩 Problem Solving
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</p>
+
+Just started building my problem-solving habit — solved **Two Sum** as my first LeetCode problem today! Solutions are auto-synced to GitHub via [LeetSync](https://chromewebstore.google.com/detail/leetsync-%E2%80%94-auto-leetcode/ahjbmbncipkpgfckdloiglgdbgnpeneo), so this section (and my contribution graph) will keep growing as I go.
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
