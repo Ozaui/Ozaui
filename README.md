@@ -37,17 +37,14 @@ Süleyman Demirel Üniversitesi'nde Bilgisayar Mühendisliği eğitimimi tamamla
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
 ---
 
 ### 📌 Öne Çıkan Proje
 
-<a href="https://github.com/Ozaui/Zausel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ozaui&repo=Zausel&theme=default" alt="Zausel"/>
-</a>
-
-**Zausel** — Almanca öğrenme yolculuğumu desteklemek için geliştirdiğim bir Almanca öğrenme uygulaması.
+**Zausel** — Almanca öğrenme yolculuğumu desteklemek için geliştirdiğim bir Almanca öğrenme uygulaması. *(şu an private repo)*
 
 ---
 
@@ -59,7 +56,7 @@ Süleyman Demirel Üniversitesi'nde Bilgisayar Mühendisliği eğitimimi tamamla
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ozaui&hide_border=true" alt="GitHub streak istatistikleri"/>
+  <img src="https://streak-stats.demolab.com/?user=Ozaui&hide_border=true" alt="GitHub streak istatistikleri"/>
 </p>
 
 ---
